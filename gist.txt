@@ -1,0 +1,39 @@
+1
+Basic Image Statistics and Color Space Conversio
+Simple Image Segmentation Using Thresholding
+Color-Based Segmentation
+
+2
+image negative transform
+gamma correction
+log trasnform
+compare transformations
+apply transformations ton color images
+
+3
+image enhancement - histogram eq
+
+4
+geometric distortion bililear interpolation, distort undistort, ssim
+
+5
+geometric recitification of stelllite imagery
+medical image recitificaion
+drone image
+historical photo
+architectural image
+
+7
+feature extraction from segemneted object
+object detection
+
+8
+segment and identify apply
+extract features from apple
+detect and compare wth taregt
+
+9
+video cut scenec
+
+10
+motion estimation and event detection
